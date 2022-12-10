@@ -1,0 +1,3 @@
+/Users/azizbekrahimjonov/training2/cmake-build-debug/CMakeFiles/training2.dir
+/Users/azizbekrahimjonov/training2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/azizbekrahimjonov/training2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
